@@ -9,6 +9,9 @@ import android.text.TextUtils;
 import android.view.WindowManager;
 import android.view.WindowManager.LayoutParams;
 
+/**
+ *
+ */
 public class MyService extends Service
 {
 	public static final String LOCK_ACTION = "lock";
